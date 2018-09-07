@@ -1,0 +1,65 @@
+
+.BG{
+    -fx-background-color: #000000;
+}
+.button{
+    -fx-background-color: transparent;
+     }
+    #openFile{
+        -fx-background-image:url("../iimages/folder.png");
+        -fx-background-size:20 20;
+        -fx-background-repeat: no-repeat;
+        -fx-background-position: center;
+           
+    }
+     #playButton{
+        -fx-background-image:url("../iimages/play.png");
+        -fx-background-size:20 20;
+        -fx-background-repeat: no-repeat;
+        -fx-background-position: center;
+           
+    }
+     #pauseButton{
+        -fx-background-image:url("../iimages/pause.png");
+        -fx-background-size:20 20;
+        -fx-background-repeat: no-repeat;
+        -fx-background-position: center;
+           
+    }
+     #stopButton{
+        -fx-background-image:url("../iimages/stop.png");
+        -fx-background-size:20 20;
+        -fx-background-repeat: no-repeat;
+        -fx-background-position: center;
+           
+    }
+    #slowRewind{
+        -fx-background-image:url("../iimages/slowrewind.png");
+        -fx-background-size:20 20;
+        -fx-background-repeat: no-repeat;
+        -fx-background-position: center;
+           
+    }
+     #rewind{
+        -fx-background-image:url("../iimages/rewind.png");
+        -fx-background-size:20 20;
+        -fx-background-repeat: no-repeat;
+        -fx-background-position: center;
+           
+    }
+     
+    #fastForward{
+        -fx-background-image:url("../iimages/fastforward.png");
+        -fx-background-size:20 20;
+        -fx-background-repeat: no-repeat;
+        -fx-background-position: center;
+           
+    }
+     #forward{
+        -fx-background-image:url("../iimages/forward.png");
+        -fx-background-size:20 20;
+        -fx-background-repeat: no-repeat;
+        -fx-background-position: center;
+           
+    }
+    
